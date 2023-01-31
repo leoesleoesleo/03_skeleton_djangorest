@@ -1,0 +1,1 @@
+# 03_skeleton_djangorest
